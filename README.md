@@ -12,4 +12,8 @@ Test RMSE: 22.94 million RWF
 `pip install -r requirements.txt`
 `streamlit run app.py`
 ## Live app
-Add the Streamlit Community Cloud URL after deployment.
+## Live Application
+
+The deployed Streamlit application is available here:
+
+https://house-price-predictor-inet5odbec9gtwrffkjfps.streamlit.app/
